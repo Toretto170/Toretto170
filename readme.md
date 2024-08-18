@@ -1,4 +1,10 @@
-<div id="header" align="center">
+
+<div id="about">
+  <h2> About me 😀:</h2>
+  <li>👋 Hi, I’m @Toretto170<br /></li>
+  <li>👀 I’m interested in databases and full stack developement.<br /></li>
+  <li>📚 I’m currently learning Python and PHP<br /></li>
+  <div id="header" align="center">
 </div>
 
   <a href="www.linkedin.com/in/marco-bioletto">
@@ -12,16 +18,5 @@
     <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white"
       alt="docker Badge" />
   </a>
-
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pacchio1&style=flat-square&color=blueviolet" alt="" />
-</div>
-<br><br><br>
-<div id="about">
-  <h2> 😀:</h2>
-  <li>👋 Hi, I’m @Toretto170<br /></li>
-  <li>👀 I’m interested in databases and full stack developement.<br /></li>
-  <li>📚 I’m currently learning Python and PHP<br /></li>
  
  
