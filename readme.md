@@ -2,8 +2,6 @@
 <div id="about">
   <h2> About me 😀:</h2>
   <li>👋 Hi, I’m @Toretto170<br /></li>
-  <li>👀 I’m interested in databases and full stack developement.<br /></li>
-  <li>📚 I’m currently learning Python and PHP<br /></li>
   <div id="header" align="center">
 </div>
 
